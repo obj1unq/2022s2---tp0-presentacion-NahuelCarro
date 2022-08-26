@@ -19,3 +19,6 @@ Una vez seleccionado el archivo hay que crear el _commit_ para subir los cambios
 ]
 - [ ] **Mirá la presentación de tus compas**. Una vez que terminaste, andá al [Github del curso](https://github.com/obj1unq) y mirá las presentaciones de tus compas. Haceles comentarios en la parte de _Issues_, despus volvé y respondé los issues de tu presentación.
 
+
+Tengo 20 años, estoy trabajando como Data Engineer en una consultora que se llama Rocbird. Actualmente utilizo python y sql principalmente y trabajo con AWS como servicio en la nube.
+
